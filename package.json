@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/fvilers/jsonwebtoken-as-promised/issues"
   },
-  "homepage": "https://github.com/fvilers/jsonwebtoken-as-promised#readme"
+  "homepage": "https://github.com/fvilers/jsonwebtoken-as-promised#readme",
+  "devDependencies": {
+    "eslint": "3.11.1"
+  }
 }
