@@ -1,6 +1,6 @@
 {
   "name": "jsonwebtoken-as-promised",
-  "version": "1.0.0",
+  "version": "7.1.9",
   "description": "A promisified jsonwebtoken",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "homepage": "https://github.com/fvilers/jsonwebtoken-as-promised#readme",
   "devDependencies": {
     "eslint": "3.11.1"
+  },
+  "dependencies": {
+    "jsonwebtoken": "7.1.9"
   }
 }
