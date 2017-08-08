@@ -1,12 +1,11 @@
 {
   "name": "jsonwebtoken-as-promised",
-  "version": "7.4.1",
+  "version": "7.4.2",
   "description": "A promisified version of jsonwebtoken",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "publish": "npm publish",
-    "postversion": "npm run publish && git push && git push --tags"
+    "postversion": "npm publish && git push && git push --tags"
   },
   "repository": {
     "type": "git",
