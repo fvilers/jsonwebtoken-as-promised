@@ -4,7 +4,9 @@
   "description": "A promisified version of jsonwebtoken",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "publish": "npm publish",
+    "postversion": "npm run publish && git push && git push --tags"
   },
   "repository": {
     "type": "git",
@@ -27,6 +29,6 @@
     "sinon": "1.17.6"
   },
   "dependencies": {
-    "jsonwebtoken": "7.4.1"
+    "jsonwebtoken": "7.4.2"
   }
 }
