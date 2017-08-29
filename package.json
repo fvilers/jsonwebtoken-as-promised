@@ -28,6 +28,6 @@
     "sinon": "1.17.6"
   },
   "dependencies": {
-    "jsonwebtoken": "7.4.2"
+    "jsonwebtoken": "7.4.3"
   }
 }
