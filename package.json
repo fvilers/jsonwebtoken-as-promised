@@ -1,6 +1,6 @@
 {
   "name": "jsonwebtoken-as-promised",
-  "version": "7.4.2",
+  "version": "7.4.3",
   "description": "A promisified version of jsonwebtoken",
   "main": "index.js",
   "scripts": {
